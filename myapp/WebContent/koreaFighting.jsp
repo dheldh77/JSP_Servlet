@@ -8,8 +8,10 @@
 </head>
 <body>
 	<%
-		String name = "김민석입니다";
+		String str = "Korea Fighting!!!";
 	%>
-	내 이름은 <%= name %>
+	
+	JSP 명령어로 작성한 <%= str %><br>
+	HTML 태그로 작성한 Korea Fighting!!!
 </body>
 </html>

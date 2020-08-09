@@ -7,9 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<%
-		String name = "김민석입니다";
-	%>
-	내 이름은 <%= name %>
+	<% String name = "김민석"; %>
+	내 이름은 <%= name %> 입니다.
 </body>
 </html>
