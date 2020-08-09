@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+    pageEncoding="UTF-8" errorPage="exception2.jsp" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +8,11 @@
 </head>
 <body>
 	<%
-		String name = "김민석입니다";
+	int one = 1;
+	int zero = 0;
 	%>
+	<h1>Exception Example1</h1>
+	one / zero = <%= one / zero %><br>
+	
 </body>
 </html>
