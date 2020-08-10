@@ -38,7 +38,7 @@ public class DBConnectionMgr {
     private String _driver = "com.mysql.cj.jdbc.Driver",
     _url = "jdbc:mysql://127.0.0.1:3306/mydb?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC",
     _user = "root",
-    _password = "123";
+    _password = "1234";
     private boolean _traceOn = false;
     private boolean initialized = false;
     private int _openConnections = 10;
