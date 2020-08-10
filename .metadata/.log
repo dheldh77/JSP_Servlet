@@ -4201,3 +4201,93 @@ Caused by: java.net.SocketException: Connection reset
 	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1409)
 	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1022)
 	... 21 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:07:06.364
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:07:06.366
+!MESSAGE classpath=35 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:07:06.367
+!MESSAGE buffering callback sts4.classpath.zhqAREFD myapp false 35
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:07:06.368
+!MESSAGE executing callback sts4.classpath.zhqAREFD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:07:06.392
+!MESSAGE executing callback sts4.classpath.zhqAREFD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:07:56.123
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:07:56.126
+!MESSAGE classpath=35 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:07:56.130
+!MESSAGE buffering callback sts4.classpath.zhqAREFD myapp false 35
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:07:56.130
+!MESSAGE executing callback sts4.classpath.zhqAREFD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:07:56.147
+!MESSAGE executing callback sts4.classpath.zhqAREFD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:10.578
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zhqAREFD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:10.580
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.zhqAREFD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:10.581
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:10.581
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zhqAREFD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:11.237
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:11.238
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4589bc66[org.springframework.tooling.boot.ls:1.18.0.202005250744(id=630)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:11.238
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.250
+!MESSAGE Boot LS startup time from start to initialized: 2012ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.289
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eGvzFWrsisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.290
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.290
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.291
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.292
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.292
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.293
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eGvzFWrs => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.293
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.293
+!MESSAGE classpath=35 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.294
+!MESSAGE buffering callback sts4.classpath.eGvzFWrs myapp false 35
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.294
+!MESSAGE executing callback sts4.classpath.eGvzFWrs 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-10 10:33:13.357
+!MESSAGE executing callback sts4.classpath.eGvzFWrs SUCCESS [done]
