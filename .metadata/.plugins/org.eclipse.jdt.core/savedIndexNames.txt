@@ -27,7 +27,6 @@ INDEX VERSION 1.131+/Users/minseok/Desktop/spring/project/.metadata/.plugins/org
 3294478674.index
 3576194012.index
 63370875.index
-109241207.index
 646175308.index
 1721325394.index
 4005089079.index
